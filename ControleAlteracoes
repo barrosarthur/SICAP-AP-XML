@@ -1,8 +1,8 @@
 Modelos já criados:
 - CARGO
-- 
-- 
-- 
+- LEI
+- LEI_QUADRO
+-
 - 
 - 
 - 
@@ -55,8 +55,8 @@ FOLHA_ITEM
 FOLHA_PAGAMENTO
 FOLHA_TIPO
 
-LEI
-LEI_QUADRO
+
+
 
 LOTACAO
 MENSAGEM

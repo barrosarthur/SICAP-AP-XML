@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<SicapAp>
+    <LeiQuadro>
+        <NumeroLei>0000000000</NumeroLei>
+        <CodigoCargo>XXXXXXXXXX</CodigoCargo>
+        <QuantidadeVagas>0000</QuantidadeVagas>
+        <Vencimento>0000,00</Vencimento>
+        <CodigoNivel>0</CodigoNivel>
+        <Regime>0</Regime>
+        <RegimeJuridico>0</RegimeJuridico>
+        <NaturezaCargo>0</NaturezaCargo>
+        <JornadaSemanal>00</JornadaSemanal>
+    </LeiQuadro>
+</SicapAp>

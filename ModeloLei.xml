@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<SicapAp>
+    <Lei>
+        <TipoVinculo>0</TipoVinculo>
+        <NumeroLeiAutorizativa>0000000000</NumeroLeiAutorizativa>
+        <TipoLei>0</TipoLei>
+        <NumeroLeiAlterada>0000000000</NumeroLeiAlterada>
+        <DataLeiAutorizativa>00/00/0000</DataLeiAutorizativa>
+        <VeiculoPublicacaoLeiAutorizativa>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</VeiculoPublicacaoLeiAutorizativa>
+        <DataPublicacaoLeiAutorizativa>00/00/0000</DataPublicacaoLeiAutorizativa>
+        <Observacoes>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</Observacoes>
+        <StatusLei>0</StatusLei>
+    </Lei>
+</SicapAp>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<SicapAp>
+    <Concurso>
+        <numeroEdital>0000000000</numeroEdital>
+        <veiculoPublicacao>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <dataInicio>00/00/0000</dataInicio>
+        <dataTermino>00/00/0000</dataTermino>
+        <prazoValidade>0</prazoValidade>
+        <cnpjBeneficiario>0000000000000000</cnpjBeneficiario>
+        <nomeProcesso>000000000</nomeProcesso>
+    </Concurso>
+</SicapAp>

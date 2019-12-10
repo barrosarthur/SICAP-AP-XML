@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+
+<SicapAp>
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <Efetivo>
+            <siglaLotacao>0000000000</siglaLotacao>
+            <cnpj>00000000000000</cnpj>
+            <numeroLei>0000000000</numeroLei>
+            <codigoCargo>0000000000</codigoCargo>
+            <dataPosse>00/00/0000</dataPosse>
+            <dataExercicio>00/00/0000</dataExercicio>
+            <ocupaOutroCargoPublico>0</ocupaOutroCargoPublico>
+            <dataPosseOutroCargoPublico>00/00/0000</dataPosseOutroCargoPublico>
+            <nomeOutroCargoPublico>nome do cargo</nomeOutroCargoPublico>
+            <nomeOrgaoOutroCargoPublico>nome do orgao</nomeOrgaoOutroCargoPublico>
+        </Efetivo>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <Comissionado>
+            <siglaLotacao>0000000000</siglaLotacao>
+            <cnpj>00000000000000</cnpj>
+            <numeroLei>0000000000</numeroLei>
+            <codigoCargo>0000000000</codigoCargo>
+            <dataPosse>00/00/0000</dataPosse>
+            <dataExercicio>00/00/0000</dataExercicio>
+            <ocupaCargoEfetivo>0</ocupaCargoEfetivo>
+            <ocupaOutroCargoPublico>0</ocupaOutroCargoPublico>
+            <dataPosseOutroCargoPublico>00/00/0000</dataPosseOutroCargoPublico>
+            <nomeOutroCargoPublico>nome do cargo</nomeOutroCargoPublico>
+            <nomeOrgaoOutroCargoPublico>nome do orgao</nomeOrgaoOutroCargoPublico>
+        </Comissionado>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <Estabilizado>
+            <siglaLotacao>0000000000</siglaLotacao>
+            <cnpj>00000000000000</cnpj>
+            <numeroLei>0000000000</numeroLei>
+            <codigoCargo>0000000000</codigoCargo>
+        </Estabilizado>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <Contrato>
+            <siglaLotacao>0000000000</siglaLotacao>
+            <cnpj>00000000000000</cnpj>
+            <numeroLei>0000000000</numeroLei>
+            <codigoFuncao>0000000000</codigoFuncao>
+            <cargaHoraria>00</cargaHoraria>
+            <vencimento>0000,00</vencimento>
+            <dataInicioVigencia>00/00/0000</dataInicioVigencia>
+            <dataFimVigencia>00/00/0000</dataFimVigencia>
+            <contratadoProcessoSeletivo>0</contratadoProcessoSeletivo>
+            <numeroEditalProcesso>00000000</numeroEditalProcesso>
+            <ocupaOutroCargoPublico>0</ocupaOutroCargoPublico>
+            <dataPosseOutroCargoPublico>00/00/0000</dataPosseOutroCargoPublico>
+            <nomeOutroCargoPublico>nome do cargo</nomeOutroCargoPublico>
+            <nomeOrgaoOutroCargoPublico>nome do orgao</nomeOrgaoOutroCargoPublico>
+        </Contrato>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <ProrrogacaoContrato>
+            <numeroAto>0000000000</numeroAto>
+            <dataFimVigencia>00/00/0000</dataFimVigencia>
+            <prorrogacaoExcepcionalidade>0</prorrogacaoExcepcionalidade>
+            <descricaoExcepcionalidade>descricao da do tipo de excepcionalidade</descricaoExcepcionalidade>
+        </ProrrogacaoContrato>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <CedidoOutraEntidade>
+            <numeroAto>0000000000</numeroAto>
+            <cnpj>00000000000000</cnpj>
+            <dataInicioVigencia>00/00/0000</dataInicioVigencia>
+            <dataFimVigencia>00/00/0000</dataFimVigencia>
+            <orgaoPagador>0</orgaoPagador>
+        </CedidoOutraEntidade>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <ServidorRequisitado>
+            <cnpj>00000000000000</cnpj>
+            <orgaoPagador>0</orgaoPagador>
+        </ServidorRequisitado>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <Licenca>
+            <numeroAtoAdmissao>0000000000</numeroAtoAdmissao>
+            <tipoLicenca>0</tipoLicenca>
+            <dataInicioLicenca>00/00/0000</dataInicioLicenca>
+            <dataFimLicenca>00/00/0000</dataFimLicenca>
+            <remuneracao>0</remuneracao>
+        </Licenca>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <Desligamento>
+            <numeroAtoAdmissao>0000000000</numeroAtoAdmissao>
+            <tipoDesligamento>0</tipoDesligamento>
+            <dataObito>00/00/0000</dataObito>
+        </Desligamento>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <Readaptacao>
+            <numeroAtoAdmissao>0000000000</numeroAtoAdmissao>
+            <numeroLei>0000000000</numeroLei>
+            <codigoCargo>0</codigoCargo>
+            <dataExercicio>00/00/0000</dataExercicio>
+        </Readaptacao>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <Reconducao>
+            <numeroAtoDesligamento>0000000000</numeroAtoDesligamento>
+            <dataExercicio>00/00/0000</dataExercicio>
+            <cnpj>00000000000000</cnpj>
+            <numeroLei>0000000000</numeroLei>
+            <codigoCargo>0</codigoCargo>
+        </Reconducao>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <Reintegracao>
+            <numeroAtoDesligamento>0000000000</numeroAtoDesligamento>
+            <dataExercicio>00/00/0000</dataExercicio>
+            <numeroLei>0000000000</numeroLei>
+            <codigoCargo>0</codigoCargo>
+        </Reintegracao>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <Reversao>
+            <numeroAto>0000000000</numeroAto>
+        </Reversao>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <Aposentadoria>
+            <tipoAposentadoria>0</tipoAposentadoria>
+            <cnpj>00000000000000</cnpj>
+            <numeroLei>0000000000</numeroLei>
+            <codigoCargo>0</codigoCargo>
+            <dataInicioBeneficio>00/00/0000</dataInicioBeneficio>
+            <dataInicioPagamento>00/00/0000</dataInicioPagamento>
+            <dataCessacao>00/00/0000</dataCessacao>
+            <motivoCessacao>0</motivoCessacao>
+            <reversao>0</reversao>
+            <dataExercicio>00/00/0000</dataExercicio>
+        </Aposentadoria>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <Reserva>
+            <cnpj>00000000000000</cnpj>
+            <numeroLei>0000000000</numeroLei>
+            <codigoCargo>0</codigoCargo>
+            <reversao>0</reversao>
+            <dataExercicio>00/00/0000</dataExercicio>
+        </Reserva>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <Reforma>
+            <cnpj>00000000000000</cnpj>
+            <numeroLei>0000000000</numeroLei>
+            <codigoCargo>0</codigoCargo>
+            <reversao>0</reversao>
+            <dataExercicio>00/00/0000</dataExercicio>
+        </Reforma>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <RevisaoAposentadoria>
+            <numeroAto>0000000000</numeroAto>
+            <cnpjOrigemMovimentacao>00000000000000</cnpjOrigemMovimentacao>
+            <cnpjOrigem>00000000000000</cnpjOrigem>
+            <numeroLei>0000000000</numeroLei>
+            <codigoCargo>0</codigoCargo>
+            <dataExercicio>00/00/0000</dataExercicio>
+        </RevisaoAposentadoria>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <RevisaoReserva>
+            <numeroAto>0000000000</numeroAto>
+            <cnpjOrigemMovimentacao>00000000000000</cnpjOrigemMovimentacao>
+            <cnpjOrigem>00000000000000</cnpjOrigem>
+            <numeroLei>0000000000</numeroLei>
+            <codigoCargo>0</codigoCargo>
+            <dataExercicio>00/00/0000</dataExercicio>
+        </RevisaoReserva>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <RevisaoReforma>
+            <numeroAto>0000000000</numeroAto>
+            <cnpjOrigemMovimentacao>00000000000000</cnpjOrigemMovimentacao>
+            <cnpjOrigem>00000000000000</cnpjOrigem>
+            <numeroLei>0000000000</numeroLei>
+            <codigoCargo>0</codigoCargo>
+        </RevisaoReforma>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <Pensao>
+            <cnpjOrigem>00000000000000</cnpjOrigem>
+            <numeroLei>0000000000</numeroLei>
+            <codigoCargo>0</codigoCargo>
+            <dataObito>00/00/0000</dataObito>
+        </Pensao>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <revisaoPensao>
+            <numeroAto>0000000000</numeroAto>
+            <cnpjOrigemMovimentacao>00000000000000</cnpjOrigemMovimentacao>
+            <cnpjOrigem>00000000000000</cnpjOrigem>
+            <numeroLei>0000000000</numeroLei>
+            <codigoCargo>0</codigoCargo>
+        </revisaoPensao>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <PosseEletivo>
+            <cnpj>00000000000000</cnpj>
+            <numeroLei>0000000000</numeroLei>
+            <codigoCargo>0</codigoCargo>
+            <dataDiplomacao>00/00/0000</dataDiplomacao>
+            <dataPosse>00/00/0000</dataPosse>
+            <dataFinalMandato>00/00/0000</dataFinalMandato>
+        </PosseEletivo>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <Remocao>
+            <numeroAto>0000000000</numeroAto>
+            <motivoRemocao>0</motivoRemocao>
+            <cnpjOrigem>00000000000000</cnpjOrigem>
+            <cnpjDestino>00000000000000</cnpjDestino>
+        </Remocao>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <Afastamento>
+            <numeroAto>0000000000</numeroAto>
+            <tipoAfastamento>0</tipoAfastamento>
+            <dataInicio>00/00/0000</dataInicio>
+            <dataFim>00/00/0000</dataFim>
+            <remuneracao>0000,00</remuneracao>
+        </Afastamento>
+    </Movimentacao>
+
+    <Movimentacao>
+        <cpf>00000000000</cpf>
+        <tipoAto>0</tipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataAto>00/00/0000</dataAto>
+        <tipoMovimentacao>00</tipoMovimentacao>
+        <codigoUnicidade>0</codigoUnicidade>
+        <veiculoPublicacao>DOE</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <provenienteDecisaoJudicial>0</provenienteDecisaoJudicial>
+        <numeroProcesso>0000000000</numeroProcesso>
+        <observacao>sem obs</observacao>
+        <SuspensaoJudicial>
+            <numeroAto>0000000000</numeroAto>
+            <numeroProcesso>0000000000</numeroProcesso>
+            <instancia>0</instancia>
+        </SuspensaoJudicial>
+    </Movimentacao>
+
+    <Lei>
+        <tipoVinculo>1</tipoVinculo>
+        <numeroLeiAutorizativa>0000002019</numeroLeiAutorizativa>
+        <tipoLei>1</tipoLei>
+        <numeroLeiAlterada>0000002019</numeroLeiAlterada>
+        <dataLeiAutorizativa>10/09/2019</dataLeiAutorizativa>
+        <veiculoPublicacaoLeiAutorizativa>DOE</veiculoPublicacaoLeiAutorizativa>
+        <dataPublicacaoLeiAutorizativa>10/09/2019</dataPublicacaoLeiAutorizativa>
+        <observacoes>sem obs</observacoes>
+        <statusLei>1</statusLei>
+    </Lei>
+
+    <LeiQuadro>
+        <numeroLei>0000002019</numeroLei>
+        <codigoCargo>aaaaaaaaaa</codigoCargo>
+        <quantidadeVagas>0000</quantidadeVagas>
+        <vencimento>0000,00</vencimento>
+        <codigoNivel>0</codigoNivel>
+        <regime>0</regime>
+        <regimeJuridico>0</regimeJuridico>
+        <naturezaCargo>0</naturezaCargo>
+        <jornadaSemanal>00</jornadaSemanal>
+    </LeiQuadro>
+
+    <ConcursoPublico>
+        <numeroEdital>0000000000</numeroEdital>
+        <veiculoPublicacao>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+        <dataInicio>00/00/0000</dataInicio>
+        <dataTermino>00/00/0000</dataTermino>
+        <prazoValidade>0</prazoValidade>
+        <cnpjBeneficiario>0000000000000000</cnpjBeneficiario>
+        <nomeProcesso>000000000</nomeProcesso>
+    </ConcursoPublico>
+
+    <VagaConcursoPublico>
+        <numeroEdital>000000000</numeroEdital>
+        <numeroLei>0000000000</numeroLei>
+        <codigoCargo>aaaaaaaaaaa</codigoCargo>
+        <codigoEspecializacao>aaaa</codigoEspecializacao>
+        <codigoLocalidade></codigoLocalidade>
+        <quantidadeVagas>0000</quantidadeVagas>
+        <cadastroReservar>0</cadastroReservar>
+    </VagaConcursoPublico>
+
+    <AprovadoConcursoPublico>
+        <numeroEdital>000000000</numeroEdital>
+        <numeroLei>0000000000</numeroLei>
+        <codigoCargo>aaaaaaaaaaa</codigoCargo>
+        <codigoEspecializacao>aaaa</codigoEspecializacao>
+        <codigoLocalidade></codigoLocalidade>
+        <cpf>00000000000</cpf>
+        <nome>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</nome>
+        <numeroInscricao>0000000000</numeroInscricao>
+        <classificacao>0000</classificacao>
+        <codigoTipoConcorrencia>00</codigoTipoConcorrencia>
+    </AprovadoConcursoPublico>
+
+    <HomologacaoConcursoPublico>
+        <numeroEdital>000000000</numeroEdital>
+        <codigoTipoAto>aaaaaaaa</codigoTipoAto>
+        <numeroAto>0000000000</numeroAto>
+        <dataHomologacao>00/00/0000</dataHomologacao>
+        <veiculoPublicacao>aaaaaaaaaaa</veiculoPublicacao>
+        <dataPublicacao>00/00/0000</dataPublicacao>
+    </HomologacaoConcursoPublico>
+
+    <ProcessoSeletivo>
+        <numeroEdital>000000000</numeroEdital>
+        <veiculoPublicacao>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</veiculoPublicacao>
+        <dataPublicacaoEdital>00/00/0000</dataPublicacaoEdital>
+        <dataInicioInscricoes>00/00/0000</dataInicioInscricoes>
+        <dataTerminoInscricoes>00/00/0000</dataTerminoInscricoes>
+        <prazoValidade>0</prazoValidade>
+        <instituicaoOrganizadora>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</instituicaoOrganizadora>
+        <valorContratacao>0000,00</valorContratacao>
+        <modalidadeContratacao>0</modalidadeContratacao>
+    </ProcessoSeletivo>
+
+    <VagaProcessoSeletivo>
+        <numeroEdital>000000000</numeroEdital>
+        <numeroLei>0000000000</numeroLei>
+        <codigoCargo>aaaaaaaaaa</codigoCargo>
+        <codigoLocalidade>0000000</codigoLocalidade>
+        <quantidadeVagas>0000</quantidadeVagas>
+    </VagaProcessoSeletivo>
+</SicapAp>
+

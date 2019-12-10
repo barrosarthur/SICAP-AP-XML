@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<SicapAp>
+    <VagaConcursoPublico>
+        <numeroEdital>000000000</numeroEdital>
+        <numeroLei>0000000000</numeroLei>
+        <codigoCargo>aaaaaaaaaaa</codigoCargo>
+        <codigoEspecializacao>aaaa</codigoEspecializacao>
+        <codigoLocalidade></codigoLocalidade>
+        <quantidadeVagas>0000</quantidadeVagas>
+        <cadastroReservar>0</cadastroReservar>
+    </VagaConcursoPublico>
+</SicapAp>

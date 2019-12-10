@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<SicapAp>
+    <ProcessoSeletivo>
+        <numeroEdital>000000000</numeroEdital>
+        <veiculoPublicacao>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</veiculoPublicacao>
+        <dataPublicacaoEdital>00/00/0000</dataPublicacaoEdital>
+        <dataInicioInscricoes>00/00/0000</dataInicioInscricoes>
+        <dataTerminoInscricoes>00/00/0000</dataTerminoInscricoes>
+        <prazoValidade>0</prazoValidade>
+        <instituicaoOrganizadora>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</instituicaoOrganizadora>
+        <valorContratacao>0000,00</valorContratacao>
+        <modalidadeContratacao>0</modalidadeContratacao>
+    </ProcessoSeletivo>
+</SicapAp>

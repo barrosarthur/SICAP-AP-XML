@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<SicapAp>
+    <VagaProcessoSeletivo>
+        <numeroEdital>000000000</numeroEdital>
+        <numeroLei>0000000000</numeroLei>
+        <codigoCargo>aaaaaaaaaa</codigoCargo>
+        <codigoLocalidade>0000000</codigoLocalidade>
+        <quantidadeVagas>0000</quantidadeVagas>
+    </VagaProcessoSeletivo>
+</SicapAp>
